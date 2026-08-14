@@ -19,8 +19,7 @@ This project uses a robotic model to replicate this motion in a high-viscosity g
 
 ## Experimental Parameters
 
-| Parameter | Value / Description |
-| --- | --- |
+
 **Wing span** 90 mm
 
  
