@@ -21,33 +21,33 @@ This project uses a robotic model to replicate this motion in a high-viscosity g
 
 | Parameter | Value / Description |
 | --- | --- |
-| **Wing span** | 90 mm
+**Wing span** 90 mm
 
  
-| **Mean chord** | 45 mm (aspect ratio = 2)
+**Mean chord** 45 mm (aspect ratio = 2)
 
  
-| **Wing thickness** | 2.5 mm (polycarbonate)
+**Wing thickness** 2.5 mm (polycarbonate)
 
  
-| **Initial gap** | ~4–5 mm (≈ 0.1c)
+**Initial gap**  ~4–5 mm (≈ 0.1c)
 
  
-| **Wing translation velocity** | ~0.19 m/s
+**Wing translation velocity**  ~0.19 m/s
 
  
-| **Fluid medium** | Glycerin–water solution
+**Fluid medium**  Glycerin–water solution
 
  
-| **Kinematic viscosity** | ≈ 860 mm²/s
+**Kinematic viscosity**  ≈ 860 mm²/s
 
  
-| **Target Reynolds number** | Re ≈ 10
+**Target Reynolds number**  Re ≈ 10
 
  
-| **Stroke period** | ~2 seconds per full cycle
+**Stroke period**  ~2 seconds per full cycle
 
- |
+ 
 
 ---
 
